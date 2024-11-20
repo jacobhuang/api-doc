@@ -254,7 +254,7 @@
         <mxCell id="mJdEeOhVX0D9DXQmDLdD-117" value="数据分析服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#80FF00;strokeColor=#003300;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="285.44" y="129.78361906658296" width="76" height="52.216380933417014" as="geometry" />
         </mxCell>
-        <mxCell id="mJdEeOhVX0D9DXQmDLdD-106" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#331A00;strokeColor=#331A00;fontColor=#ffffff;verticalAlign=top;align=center;shadow=1;glass=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="mJdEeOhVX0D9DXQmDLdD-106" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#003300;fontColor=#80FF00;verticalAlign=top;align=center;shadow=1;glass=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="168.22" y="416" width="503.56" height="117" as="geometry" />
         </mxCell>
         <mxCell id="mJdEeOhVX0D9DXQmDLdD-107" value="数据接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#80FF00;strokeColor=#003300;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
